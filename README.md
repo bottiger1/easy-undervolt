@@ -16,7 +16,8 @@ Methods to undervolt or overclock the GPU nowadays are needless complicated Yout
    ![image](https://github.com/user-attachments/assets/5909fa41-a4e0-4169-803a-0bf57afe4240)
 
 5. You'll get an XML file like "User Mode.xml" rename this to "default.xml".
-6. Download the undervolt program from us, put it in the Desktop. Double click to run it and set the desired max frequency and voltage.
+6. Download the undervolt program here https://github.com/bottiger1/easy-undervolt/releases/
+Put it in the Desktop. Double click to run it and set the desired max frequency and voltage.
 7. Import the new file called new.xml
    
    ![image](https://github.com/user-attachments/assets/5253f350-1d2e-49ba-b2b9-4633932409f8)
