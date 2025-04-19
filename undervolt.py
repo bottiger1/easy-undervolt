@@ -1,3 +1,4 @@
+print('https://github.com/bottiger1/easy-undervolt')
 MAX_CLOCK = input('Max clock in MHZ (ie 1700): ')
 MAX_VOLTAGE = input('Max voltage in mV (ie 700): ')
 
