@@ -43,3 +43,7 @@ I believe it is because the driver forces your settings to the nearest valid val
 2. Click the VF Tuner button under Clock.
 3. Click the DEFAULT radio button (not the square one). Then click save.
 4. You can now export this one as your default profile.
+
+### Why are the voltages and frequencies swapped in the xml file?
+
+This is to bypass a bug with GPU Tweak.
