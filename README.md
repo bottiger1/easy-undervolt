@@ -34,3 +34,9 @@ Importing of profiles isn't built-in and is very cumbersome. Voltage curve seems
 
 ### Why am I not getting the exact frequency or voltage I specified?
 I believe it is because the driver forces your settings to the nearest valid values.
+
+### I edited my User Mode profile already, how do I export a default profile?
+1. Create a new profile. 
+2. Click the VF Tuner button under Clock.
+3. Click the DEFAULT radio button (not the square one). Then click save.
+4. You can now export this one as your default profile.
