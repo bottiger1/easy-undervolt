@@ -10,21 +10,22 @@ Methods to undervolt or overclock the GPU nowadays are needless complicated Yout
 
 2. First we will export the default voltage curve.
    Click on the triangle next to User Mode. Hover over the entry below, and click the export icon.
-   ![image](https://github.com/user-attachments/assets/6c447f97-2dd9-4928-a180-d9f739591a03)
+   <img src="https://github.com/user-attachments/assets/6c447f97-2dd9-4928-a180-d9f739591a03" height="67%" width="67%">
 
 4. Select the profile, set the location to your desktop and export it.
-   ![image](https://github.com/user-attachments/assets/5909fa41-a4e0-4169-803a-0bf57afe4240)
+   <img src="https://github.com/user-attachments/assets/5909fa41-a4e0-4169-803a-0bf57afe4240" height="67%" width="67%">
 
 5. You'll get an XML file like "User Mode.xml" rename this to "default.xml".
 6. Download the undervolt program here https://github.com/bottiger1/easy-undervolt/releases/
 Put it in the Desktop. Double click to run it and set the desired max frequency and voltage.
 7. Import the new file called new.xml
-   
-   ![image](https://github.com/user-attachments/assets/5253f350-1d2e-49ba-b2b9-4633932409f8)
+
+   <img src="https://github.com/user-attachments/assets/5253f350-1d2e-49ba-b2b9-4633932409f8" height="112px" width="339px">
 9. Select the new profile. Be sure to click apply.
-   ![image](https://github.com/user-attachments/assets/41d51e1e-7445-47ee-af95-f9ddc25a1348)
-10. (optional) Verify the voltage curve looks ok by clicking on the **VF Tuner** button under the clock area. I also recommend you use something like Nvidia Overlay (alt+r) to make sure the settings are running.
-11. Close GPU Tweak or else it will randomly switch to OC Mode.
+
+   <img src="https://github.com/user-attachments/assets/41d51e1e-7445-47ee-af95-f9ddc25a1348" height="360px" width="403px">
+11. (optional) Verify the voltage curve looks ok by clicking on the **VF Tuner** button under the clock area. I also recommend you use something like Nvidia Overlay (alt+r) to make sure the settings are running.
+12. Close GPU Tweak or else it will randomly switch to OC Mode.
 
 Now every time you want to change the numbers, you can skip to step 6.
 
