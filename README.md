@@ -10,6 +10,7 @@ Methods to undervolt or overclock the GPU nowadays are needless complicated Yout
 
 2. First we will export the default voltage curve.
    Click on the triangle next to User Mode. Hover over the entry below, and click the export icon.
+   
    <img src="https://github.com/user-attachments/assets/6c447f97-2dd9-4928-a180-d9f739591a03" height="67%" width="67%">
 
 4. Select the profile, set the location to your desktop and export it.
