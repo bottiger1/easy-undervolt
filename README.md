@@ -28,7 +28,7 @@ Put it in the Desktop. Double click to run it and set the desired max frequency 
 8. (optional) Verify the voltage curve looks ok by clicking on the **VF Tuner** button under the clock area. I also recommend you use something like Nvidia Overlay (alt+r) to make sure the settings are running.
 9. Close GPU Tweak or else it will randomly switch to OC Mode.
 
-Now every time you want to change the numbers, you can skip to step 6.
+Now every time you want to change the numbers, you can skip to step 5.
 
 ## FAQ
 
